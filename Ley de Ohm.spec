@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['C:\\Users\\jftel\\Documents\\JuanFe\\Py\\Ley de Ohm\\Final\\Ley de Ohm.py'],
+    [''],
     pathex=[],
     binaries=[],
     datas=[],
